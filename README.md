@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+```
+![image](https://github.com/user-attachments/assets/21d92c78-e798-4fe2-9d23-38c1ff38595f)
+```
