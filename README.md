@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+# Assignment 3, Part 2 - Blockchain Technologies 1
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Usage
+This project contains test cases for the smart contract developed in Assignment 3, Part 1.  
+Testing is performed using Hardhat.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## Installation and Execution
+1. Make sure you have Node.js and npm installed.
+2. Install dependencies:
+   ```sh
+   npm install
+## Screenshots:
+![alt text](image-1.png)
